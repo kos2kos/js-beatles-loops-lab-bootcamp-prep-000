@@ -13,6 +13,10 @@ function johnLennonFacts(arg){
   }return temp
 }
 function iLoveTheBeatles(num){
-  var temp = []
-  do 
+  var temp = ["I love the Beatles!"]
+  if (num < 15){
+    for(var i = 0; i < 15; i++){
+      temp.push("I love the Beatles!")
+    }
+  }
 }
