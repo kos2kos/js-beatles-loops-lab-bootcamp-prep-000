@@ -18,5 +18,5 @@ function iLoveTheBeatles(num){
     for(var i = 0; i < num; i++){
       temp.push("I love the Beatles!")
     }
-  }
+  }return temp
 }
