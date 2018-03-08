@@ -15,7 +15,7 @@ function johnLennonFacts(arg){
 function iLoveTheBeatles(num){
   var temp = ["I love the Beatles!"]
   if (num < 15){
-    for(var i = 0; i < 15; i++){
+    for(var i = 0; i < num; i++){
       temp.push("I love the Beatles!")
     }
   }
