@@ -4,3 +4,4 @@ function theBeatlesPlay(musicians, instruments){
    temp[i] = `${musicians[i]} plays ${instruments[i]}`
   }return temp
 }
+function johnLennonFacts
