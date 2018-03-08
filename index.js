@@ -13,5 +13,6 @@ function johnLennonFacts(arg){
   }return temp
 }
 function iLoveTheBeatles(num){
+  var temp = []
   
 }
